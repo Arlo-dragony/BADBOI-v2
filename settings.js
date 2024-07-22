@@ -29,7 +29,7 @@ global.link = 'https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
