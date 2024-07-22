@@ -26,7 +26,7 @@ global.wm = "ARLODRAGON HACKER Tech."
 global.link = 'https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q'
 
 //custom prefix
-global.prefa = [',','!','.','#','&']
+global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
